@@ -11,3 +11,11 @@ puede almacenar numeros, texto, booleanos, etc
 
 Tipos de datos
 los tipos de datos determinan que tipos de valores pueden almacenar y manipularse en un programa.
+
+
+
+Genericos
+los genericos nos permiten escribir codigo mas flexible y reutilizable sin depender de un tipo de dato especifico
+se usan en metodos, clases, interfaces y estructuras para manejar diferentes tipos sin duplicar el codigo.
+
+usa un marcador de tipo T para indicar que el codigo puede trabajar con distintos tipos de datos

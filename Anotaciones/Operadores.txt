@@ -1,0 +1,29 @@
+En c# existen varios tipos de operadores:
+
+Aritmeticos:
+
+suma :+
+resta :-
+multiplicacion :*
+division :/
+modulo :%
+
+
+Asigacion: Nos permiten asignar valores a variables
+
+Igual =
+Incremento :+=
+Decremento :-=
+
+Relacionales: a ejecutarse nos devuelven booleaanos
+
+igual a: ==
+no igual a: !=
+mayor que >
+menor que: <
+
+Logicos: Nos sirven para combinar condiciones booleanos y nos van a retornar valores booleanos
+
+Y logico: &&
+o logico: ||
+Negacion: !

@@ -12,3 +12,4 @@ C:\Users\300049\Desktop\C#\HelloApp\obj\Debug\net10.0\refint\HelloApp.dll
 C:\Users\300049\Desktop\C#\HelloApp\obj\Debug\net10.0\HelloApp.pdb
 C:\Users\300049\Desktop\C#\HelloApp\obj\Debug\net10.0\HelloApp.genruntimeconfig.cache
 C:\Users\300049\Desktop\C#\HelloApp\obj\Debug\net10.0\ref\HelloApp.dll
+C:\Users\300049\Desktop\C#\HelloApp\obj\Debug\net10.0\HelloApp.sourcelink.json
