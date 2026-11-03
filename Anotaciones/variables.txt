@@ -1,0 +1,13 @@
+Variables
+
+Una variable es un contenedor que almacena datos, cada variable tiene un tippo que define el tipo de datos puede almacenar
+puede almacenar numeros, texto, booleanos, etc
+
+    int number = 10; // asi se declaran e inicializan variables en c#
+        int oddnumber;
+
+        oddnumber = 7;  // asi se se le setea un valor a la variable que ya fue declarada
+
+
+Tipos de datos
+los tipos de datos determinan que tipos de valores pueden almacenar y manipularse en un programa.
