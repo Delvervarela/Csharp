@@ -1,0 +1,4 @@
+Herencia
+
+La herencia hace que una clase hija o derivada herede los miembros que son sus propiedades y metodos
+de una clase padre o tambien denominada base.

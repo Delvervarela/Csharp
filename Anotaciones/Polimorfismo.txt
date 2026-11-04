@@ -1,0 +1,17 @@
+Polimorfismo
+
+El Polimorfismo significa muchas o multiples formas y ocurre cuando tenemos muchas clases que estan relacinadas entre si
+por herencia.
+
+El polimorfismo tiene 2 usos:
+1. Polimorfismo de metodos: uma clase derivada puede sobrescribir metodos en su clase base
+2. polimorfismo de clases: una clase base puede representar multiples clases derivadas.
+
+
+tambien nos sirve para hacer que nuestro codigo sea mas flexible y extensible.
+
+
+Polimorfismo en clases abstractas
+
+las clases abstractas sirven de base para otra clases pero no pueden instanciarse directamente.
+Se usan para definir estructuras comunes y obligar a clases hijas a implementar cirtos metodos.

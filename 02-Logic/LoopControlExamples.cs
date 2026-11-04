@@ -7,7 +7,7 @@ partial class Program
         {
             if (i == 5)
             {
-                break;
+                //break;
             }
             //WriteLine(i);
 
@@ -18,7 +18,7 @@ partial class Program
         {
             if (i == 5  || i == 7)
             {
-                continue;
+               // continue;
             }
             //WriteLine(i);
 
@@ -31,7 +31,7 @@ partial class Program
             {
                // return;
             }
-            WriteLine(i);
+           // WriteLine(i);
 
 
         }

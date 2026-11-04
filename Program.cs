@@ -35,7 +35,27 @@ partial class Program //Clase principal donde va a ser un contenedor para nuestr
         //Condicionales();
         //Loops();
         //FizzBuzz();
-        LoopControlExamples();
+        //LoopControlExamples();
+        //LoopGame();
+        //Conversiones();
+        //ConversionDateTime();
+        //Funciones();
+        //TablaMultiplicar(numero: 12, limiteTabla:100);
+        //CalcularFactorial(numero: 1, limiteNumero: 5);
+        //CalcularFactorial(5);
+        //Tuplas();
+        //FuncionAnonima();
+        //PruebaClase();
+        //Propiedades();
+        //Metodos();
+        //Forzar recoleccion de basura
+        //GC.Collect();
+        //Ejecuten los finalizadores
+        //GC.WaitForPendingFinalizers();
+        //FlotaBuses();
+        //Herencia();
+        ClaseAbstractaEjemplo();
+
         #endregion
         #region Sección4
         #endregion
