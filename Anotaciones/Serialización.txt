@@ -1,0 +1,5 @@
+Serialización
+
+
+La serializacion significa convertir un objeto en cadena
+La deserializacion es operacion inversa, convertir cadena en objeto

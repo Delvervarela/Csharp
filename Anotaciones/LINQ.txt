@@ -1,0 +1,6 @@
+LINQ (Language integrated Query)
+Nos permite consultar y manipular de manera sencilla y expresiva podemos utilizar LINQ con listas, arreglos, bases de datos y archivos.
+
+se utiliza porque es legible, facil de entender, reduce la cantidad de codigo y funciona con diferentes datos.
+
+sirve para filtrar, ordenar y transformar datos.

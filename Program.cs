@@ -54,8 +54,21 @@ partial class Program //Clase principal donde va a ser un contenedor para nuestr
         //GC.WaitForPendingFinalizers();
         //FlotaBuses();
         //Herencia();
-        ClaseAbstractaEjemplo();
-
+        //ClaseAbstractaEjemplo();
+        //Visibilidad();
+        //EmpleadosInfo();
+        //ManejarExcepciones();
+        //Colecciones();
+        //Linq();
+        //AdvancedLinq.Program.AdvancedLINQ();
+        //SalesAnalysis();
+        //EjemploArchivos();
+        //EjemploDirectorio();
+        //EjemploRuta();
+        //EjemploEscrituraArchivo();
+        //ManageJsonFile.Program.ManageJsonFile();
+        TaskMaster.Program.TaskMaster();
+        
         #endregion
         #region Sección4
         #endregion

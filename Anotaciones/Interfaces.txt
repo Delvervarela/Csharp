@@ -1,0 +1,12 @@
+Interfaces
+Una interfaz es una estructura que define un contrato que las clases deben seguir sin proporcionar ninguna implementacion real.
+las interfaces permite la creacion mas modular, flexible facilitando la reutilizacion y mantenimiento.
+
+diferencias entre las clases y las interfaces:
+
+1. Solo podemos heredar una clases pero podemos implementar multiples interfaces
+una interfaz no contiene la implementacion de la solucion  como tal es un contrato donde 
+al implementar tenemos que guiarnos por las propiedades y metodos que tiene esa interfaz 
+
+2. Son utiles para definir un conjunto comun de metodos sin forzar una jerarquia de herencia.
+

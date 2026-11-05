@@ -52,6 +52,12 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
+          "dependencies": {
+            "BetterConsoleTables": {
+              "target": "Package",
+              "version": "[2.0.5-rc1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
